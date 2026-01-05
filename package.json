@@ -6,7 +6,7 @@
   "author": "Daniel Frey <github.com/clickspider>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clickspider/copilotkit-langgraph-history"
+    "url": "git+https://github.com/clickspider/copilotkit-langgraph-history.git"
   },
   "homepage": "https://github.com/clickspider/copilotkit-langgraph-history#readme",
   "bugs": {
